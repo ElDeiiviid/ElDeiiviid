@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ElDeiiviid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ElDeiiviid/ElDeiiviid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{
+    " 『💻』ƊᏒαⲔσ#0001 " : {
+" mensaje " : " ! ip 89.130.98.14"
+},
+}
